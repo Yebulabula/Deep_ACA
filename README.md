@@ -50,22 +50,6 @@ Project Link: [https://github.com/Yebulabula/Deep_ACA](https://github.com/Yebula
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## References
-Moniri, A., Miglietta, L., Malpartida-Cardenas, K., Pennisi, I., Cacho-Soblechero, M., Moser, N., Holmes, A., Georgiou, P. and Rodriguez-Manzano, J., 2020. Amplification curve analysis: data-driven multiplexing using real-time digital PCR. Analytical Chemistry, 92(19), pp.13134-13143.(https://pubs.acs.org/doi/full/10.1021/acs.analchem.0c02253)
-[Long, M., Cao, Z., Wang, J. and Jordan, M.I., 2018. Conditional adversarial domain adaptation. Advances in neural information processing systems, 31.](https://proceedings.neurips.cc/paper/2018/hash/ab88b15733f543179858600245108dd8-Abstract.html)
+- [Moniri, A., Miglietta, L., Malpartida-Cardenas, K., Pennisi, I., Cacho-Soblechero, M., Moser, N., Holmes, A., Georgiou, P. and Rodriguez-Manzano, J., 2020. Amplification curve analysis: data-driven multiplexing using real-time digital PCR. Analytical Chemistry, 92(19), pp.13134-13143.](https://pubs.acs.org/doi/full/10.1021/acs.analchem.0c02253)
+- [Long, M., Cao, Z., Wang, J. and Jordan, M.I., 2018. Conditional adversarial domain adaptation. Advances in neural information processing systems, 31.](https://proceedings.neurips.cc/paper/2018/hash/ab88b15733f543179858600245108dd8-Abstract.html)
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
