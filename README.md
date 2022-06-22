@@ -24,9 +24,7 @@ Installing the newest version for all packages below,
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-Run python3 main.py
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+Run python3 main.py <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
