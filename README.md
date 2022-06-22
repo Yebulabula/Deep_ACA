@@ -196,7 +196,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Ye Mao- [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Ye Mao- MSc Applied Machine Learning - ym621@ic.ac.uk
 
 Project Link: [https://github.com/Yebulabula/Deep_ACA](https://github.com/Yebulabula/Deep_ACA)
 
