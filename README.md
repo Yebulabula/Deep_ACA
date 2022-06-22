@@ -52,4 +52,5 @@ Project Link: [https://github.com/Yebulabula/Deep_ACA](https://github.com/Yebula
 ## References
 - [Moniri, A., Miglietta, L., Malpartida-Cardenas, K., Pennisi, I., Cacho-Soblechero, M., Moser, N., Holmes, A., Georgiou, P. and Rodriguez-Manzano, J., 2020. Amplification curve analysis: data-driven multiplexing using real-time digital PCR. Analytical Chemistry, 92(19), pp.13134-13143.](https://pubs.acs.org/doi/full/10.1021/acs.analchem.0c02253)
 - [Long, M., Cao, Z., Wang, J. and Jordan, M.I., 2018. Conditional adversarial domain adaptation. Advances in neural information processing systems, 31.](https://proceedings.neurips.cc/paper/2018/hash/ab88b15733f543179858600245108dd8-Abstract.html)
+- [Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.N., Kaiser, Ł. and Polosukhin, I., 2017. Attention is all you need. Advances in neural information processing systems, 30.](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
 
