@@ -42,9 +42,9 @@ Project Link: [https://github.com/Yebulabula/Deep_ACA](https://github.com/Yebula
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Dr. JesusRodriguez Manzano](https://www.imperial.ac.uk/people/j.rodriguez-manzano)
+* [Dr. Jesus Rodriguez Manzano](https://www.imperial.ac.uk/people/j.rodriguez-manzano)
 * [Mr. Ke Xu]()
-* [Mr. LucaMiglietta](https://www.imperial.ac.uk/people/l.miglietta)
+* [Mr. Luca Miglietta](https://www.imperial.ac.uk/people/l.miglietta)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
