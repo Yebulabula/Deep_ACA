@@ -26,6 +26,8 @@ Installing the newest version for all packages below,
 ## Usage
 Run python3 main.py <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Result
+
 <!-- CONTACT -->
 ## Contact
 
